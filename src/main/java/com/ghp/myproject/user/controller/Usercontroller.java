@@ -12,6 +12,6 @@ public class Usercontroller {
     @ResponseBody
     public String users(){
 
-        return "usawdeaw";
+        return "여러명";
     }
 }
